@@ -8,27 +8,26 @@
 
 </p>
 
-<div align="center">
-  <svg height="300" width="300" viewBox="-100 -100 200 200">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <image xlink:href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" width="30" x="-15" y="-90" transform="rotate(0)"/>
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-      <image xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="30" width="30" x="-15" y="-90" transform="rotate(60) translate(0, -60)"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <image xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="30" x="-15" y="-90" transform="rotate(120) translate(0, -60)"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <image xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30" x="-15" y="-90" transform="rotate(180) translate(0, -60)"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <image xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" width="30" x="-15" y="-90" transform="rotate(240) translate(0, -60)"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <image xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="30" x="-15" y="-90" transform="rotate(300) translate(0, -60)"/>
-    </a>
-  </svg>
+<p align="center"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a> 
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> 
+</p>
 </div>
 
 <p align="center">
