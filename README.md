@@ -37,10 +37,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GitTOWA&show_icons=true&locale=en&layout=donut" alt="GitTOWA" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitTOWA&show_icons=true&locale=en" alt="GitTOWA" />
+   <img src="https://github-readme-stats.vercel.app/api?username=GitTOWA&show_icons=true&locale=en" alt="GitTOWA" />
 </div>
 
 <div align="center">
