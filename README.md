@@ -1,10 +1,5 @@
-<h1>Hi! Welcome to my GitHub!🤩</h1>
-<h2>Profile</h2>
-<h3>Language</h3>
-<ul>
-  <li>HTML&CSS</li>
-  <li>Python</li>
-  <li>PHP</li>
-  <li>Go</li>
-</ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitTOWA&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kmjak&column=5&theme=gruvbox&no-frame=false&rank=AA"/>
+</a>
