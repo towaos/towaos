@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<div align="center"> 
+<p align="center"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a> 
@@ -26,23 +26,23 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=GitTOWA&label=Profile%20views&color=0e75b6&style=flat" alt="gittowa" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitTOWA&" alt="GitTOWA" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GitTOWA&show_icons=true&locale=en&layout=donut" alt="GitTOWA" />
   <img src="https://github-readme-stats.vercel.app/api?username=GitTOWA&show_icons=true&locale=en" alt="GitTOWA" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=GitTOWA" alt="GitTOWA" />
   </a>
-</div>
+</p>
