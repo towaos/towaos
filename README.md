@@ -5,10 +5,9 @@
   <a href="https://atcoder.jp/users/TOWAs" target="_blank">
     <img align="center" src="https://img.atcoder.jp/logo/atcoder/logo_transparent.png" alt="AtCoder" height="30" width="40" />
   </a>
-
 </p>
 
-<p align="center"> 
+<div align="center"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a> 
@@ -27,12 +26,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
-</p>
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=GitTOWA&label=Profile%20views&color=0e75b6&style=flat" alt="gittowa" />
-</p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitTOWA&" alt="GitTOWA" />
