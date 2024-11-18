@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
