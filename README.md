@@ -5,8 +5,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a> 
@@ -28,7 +28,7 @@
 </p>
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=GitTOWA&label=Profile%20views&color=0e75b6&style=flat" alt="gittowa" />
 </p>
 
