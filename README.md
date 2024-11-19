@@ -2,7 +2,7 @@
   <a href="https://twitter.com/towas_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="towas_" height="30" width="40"/>
   </a>
-  <a href="https://atcoder.jp/users/TOWAs" target="_blank">
+  <a href="https://atcoder.jp/users/GitTOWA" target="_blank">
     <img align="center" src="https://img.atcoder.jp/logo/atcoder/logo_transparent.png" alt="AtCoder" height="30" width="40" />
   </a>
 </p>
