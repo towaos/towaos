@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://twitter.com/towas_" target="blank">
+  <a href="https://twitter.com/_GitTOWA" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="towas_" height="30" width="40"/>
   </a>
   <a href="https://atcoder.jp/users/GitTOWA" target="_blank">
