@@ -15,11 +15,11 @@
 ###
 
 <div align="left">
-  <a href="https://developer.mozilla.org/ja/docs/Web/HTML" style="text-decoration: none;">
+  <a href="https://developer.mozilla.org/ja/docs/Web/HTML" style="text-decoration: none; border: none;">
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/ja/docs/Web/CSS" style="text-decoration: none;">
+  <a href="https://developer.mozilla.org/ja/docs/Web/CSS" style="text-decoration: none; border: none;">
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   </a>
   <img width="12" />
