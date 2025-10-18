@@ -15,31 +15,54 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <a href="https://developer.mozilla.org/ja/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <a href="https://developer.mozilla.org/ja/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
+  <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <a href="https://www.php.net/docs.php">
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <a href="https://laravel.com/docs/12.x/installation">
+    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <a href="https://www.python.org/doc/">
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <a href="https://flask.palletsprojects.com/en/stable/">
+    <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <a href="https://docs.djangoproject.com/ja/5.2/">
+    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <a href="https://go.dev/doc/">
+    <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <a href="https://docs.oracle.com/javase/jp/8/docs/api/org/w3c/dom/Document.html">
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <a href="https://docs.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <a href="https://docs.aws.amazon.com/ja_jp/">
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  </a>
 </div>
-
 
 ###
 
