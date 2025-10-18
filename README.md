@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am TOWA.</p>
+<p align="left">I AM TOWA.</p>
 
 ###
 
