@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I AM TOWA.</p>
+<div align="left">
+  <img src="./images/name.png" height="40" alt="i am towa"  />
+</div>
 
 ###
 
